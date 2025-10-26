@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Node modules (if using Node.js for scripts)
+node_modules/
+
+# Python virtual environment (if using Python for scripts)
+venv/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
